@@ -2,8 +2,8 @@
 ## path:
 ROOT_PATH=$(dirname $BASH_SOURCE);
 
-# create random string: 
-phone="13$RANDOM$RANDOM$RANDOM$RANDOM";
-alias r-phone='echo ${phone:0:11} | pbcopy';
+## load basic functions:
+source $ROOT_PATH/functions.sh;
+alias rphone='get_random_phone | tr -d '\''\n'\'' | pbcopy';
 
 unset ROOT_PATH;
