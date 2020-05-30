@@ -1,6 +1,7 @@
 # ushell-module-random
 > Bash random data.
 
-## resources:
-
-## commands:
+## installation
+```shell
+npm i -S @feizheng/ushell-module-random
+```

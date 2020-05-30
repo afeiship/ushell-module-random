@@ -1,6 +1,6 @@
 {
-  "name": "ushell-module-random",
-  "version": "0.0.1",
+  "name": "@feizheng/ushell-module-random",
+  "version": "1.0.0",
   "description": "Bash random data.",
   "main": "index.sh",
   "repository": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/afeiship/ushell-module-random/issues"
   },
-  "homepage": "https://github.com/afeiship/ushell-module-random"
+  "homepage": "https://github.com/afeiship/ushell-module-random",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
