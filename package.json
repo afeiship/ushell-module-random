@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/ushell-module-random",
+  "name": "@jswork/ushell-module-random",
   "version": "1.0.0",
   "description": "Bash random data.",
   "main": "index.sh",
@@ -8,10 +8,13 @@
     "url": "git+https://github.com/afeiship/ushell-module-random.git"
   },
   "keywords": [
-    "ushell",
     "unix",
     "shell",
-    "ushell-module-random"
+    "bash",
+    "phone",
+    "random",
+    "alias",
+    "rand"
   ],
   "authors": [
     "feizheng <1290657123@qq.com>"

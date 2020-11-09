@@ -3,5 +3,5 @@
 
 ## installation
 ```shell
-npm i -S @feizheng/ushell-module-random
+npm i -S @jswork/ushell-module-random
 ```
